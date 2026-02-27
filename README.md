@@ -6,6 +6,8 @@
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bdbb05b-c7cf-4478-9b0e-3c3cbe969730" />
+
 ## About
 
 This project was developed as a **Software Engineering college project** to demonstrate practical application of software development principles including system design, database modeling, and multi-tier architecture. The application is currently hosted on [InfinityFree](https://infinityfree.net/).
@@ -125,5 +127,6 @@ This project was created as an educational exercise. Contributions, issues, and 
 ---
 
 Made with ❤️ for Software Engineering coursework under the supervision of Prof. Ahmed Shehata
+
 
 
