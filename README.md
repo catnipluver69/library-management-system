@@ -124,5 +124,6 @@ This project was created as an educational exercise. Contributions, issues, and 
 
 ---
 
-Made with ❤️ for Software Engineering coursework
+Made with ❤️ for Software Engineering coursework under the supervision of Prof. Ahmed Shehata
+
 
