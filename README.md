@@ -121,10 +121,8 @@ define('DB_PASS', 'your_password');
 
 This project was created as an educational exercise. Contributions, issues, and feature requests are welcome!
 
-## License
-
-This project was developed for educational purposes as part of a Software Engineering course.
 
 ---
 
 Made with ❤️ for Software Engineering coursework
+
